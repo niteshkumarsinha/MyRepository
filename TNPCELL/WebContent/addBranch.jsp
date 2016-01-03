@@ -21,6 +21,7 @@
   <caption>
     <span class="style2">Branch Details    </span>
     <br />
+<br />
   </caption>
   <tr>
 
